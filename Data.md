@@ -18,8 +18,10 @@
 
 ## Data
 
-Mate					        | mpraus	| of-matches
---------------------- | -------	| --------
-Fru-Mate			        | 2				|	2
-Maya Mate Granatapfel | 3  			| 6
-Maya Mate Ice Tea     | 6       | 5
+Mate					                | mpraus	| of-matches
+----------------------------- | -------	| --------
+Fru-Mate			                | 2				|	2
+Maya Mate Granatapfel         | 3  			| 6
+Maya Mate Ice Tea             | 6       | 5
+Almdudler Mate                | 5       | 6
+Mate Mate firsich-Lemongrass  | 4       | 5
