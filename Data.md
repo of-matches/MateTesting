@@ -26,3 +26,4 @@ Maya Mate Ice Tea             | 6       | 5
 Almdudler Mate                | 5       | 6
 Mate Mate firsich-Lemongrass  | 4       | 5
 Top Maté                      | 1       | 1
+ChariTea mate sparkling       | 5       | 6
