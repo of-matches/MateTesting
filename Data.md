@@ -1,0 +1,24 @@
+# Score Data
+
+## Scoring System
+
+1: Awful
+
+2: Bad
+
+3: Not Good
+
+4: Neutral
+
+5: Good
+
+6: Excellent
+
+7: Transcendent
+
+## Data
+
+Mate					| mpraus	| of-matches
+-------------	| -------	| --------
+Fru-Mate			| 2				|	2
+Mio Mio Mate	|   			|
