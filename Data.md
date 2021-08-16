@@ -6,7 +6,7 @@
 
 2: Bad
 
-3: Not Good
+3: Meh
 
 4: Neutral
 
