@@ -14,7 +14,7 @@
 
 6: Excellent
 
-7: Transcendent
+7: Amazing
 
 ## Data
 
