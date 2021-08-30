@@ -31,3 +31,4 @@ Genuss Plus Mate Classic     | 4      | 4          | 4
 Yogi Tea Mate Zitrone        | 5      | 6          | 5.5
 Red Bull Organic Viva Mate   | 4      | 2          | 3
 Club-Mate Granat             | 3      | 5          | 4
+Ailaike Mate - Johannisbeere | 6      | 7          | 6.5
