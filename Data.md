@@ -27,3 +27,4 @@ Almdudler Mate               | 5      | 6          | 5.5
 Mate Mate firsich-Lemongrass | 4      | 5          | 4.5
 Top Maté                     | 1      | 1          | 1
 ChariTea mate sparkling      | 5      | 6          | 5.5
+Genuss Plus Mate Classic     | 4      | 4          | 4
